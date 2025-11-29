@@ -4,4 +4,4 @@ I make games and do other stuff.
 
 ### Currently Working On
 
-![PotatoOS](https://github.redisnotblue.dev/repo/the-potato-corp/potato-os)
+[![PotatoOS](https://github.redisnotblue.dev/repo/the-potato-corp/potato-os)](https://github.com/the-potato-corp/potato-os)
