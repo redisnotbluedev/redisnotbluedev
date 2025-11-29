@@ -1,4 +1,3 @@
-## Hi there 👋
-There's nothing here right now, so if you're reading this, tell me to put something here.
+## Hey, I'm `redisnotblue`
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=redisnotbluedev&theme=dark)
+I make games and do other stuff.
