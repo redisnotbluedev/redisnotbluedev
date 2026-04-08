@@ -4,7 +4,7 @@
 
 i'm a fullstack developer who makes dumb stuff in my free time
 
-<br clear="all">
+<br clear="right">
 
 - websites
 - discord bots
