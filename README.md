@@ -6,8 +6,6 @@ I'm a fullstack developer
 
 <br clear="all">
 
-I make games and do other stuff.
-
 ### Currently Working On
 
 - [discord-mafia](https://github.com/redisnotbluedev/discord-mafia): A Discord bot that allows users to play Mafia with AIs.
