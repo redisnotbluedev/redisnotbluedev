@@ -1,4 +1,5 @@
 <img src="https://ghstats.dev/api/card?username=redisnotbluedev" alt="GitHub Stats" width="50%" align="left">
+
 ## hey, i'm `redisnotblue`
 
 do headers even work
