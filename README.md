@@ -1,10 +1,10 @@
-## hi, i'm `redisnotblue`
-
-<p align="center">
+<div align="center">
+	<h3>hi, i'm <code>redisnotblue</code></h3>
+	
 	<a href="https://github.com/rowkav09/GitHub-profile-stats">
 		<img src="https://ghstats.dev/api/card?username=redisnotbluedev" alt="GitHub Stats">
 	</a>
-</p>
+</div>
 
 I make games and do other stuff.
 
