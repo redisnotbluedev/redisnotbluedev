@@ -29,3 +29,12 @@ i use arch btw
 </h2>
 
 lorem ipsum dolor sit amet
+
+<a name="contact"></a>
+<h2>
+  <img src="circle-user.svg" alt="Person icon">
+  contact
+</h2>
+
+lorem ipsum dolor sit amet
+discord is cool
