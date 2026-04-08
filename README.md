@@ -1,11 +1,4 @@
-<div align="center">
-	<h3>hi, i'm <code>redisnotblue</code></h3>
-	<a href="https://github.com/rowkav09/GitHub-profile-stats">
-		<img src="https://ghstats.dev/api/card?username=redisnotbluedev" alt="GitHub Stats">
-	</a>
-</div>
-
-<img src="https://ghstats.dev/api/card?username=redisnotbluedev" alt="Description" width="200" align="left" style="margin-right: 10px;">
+<img src="https://ghstats.dev/api/card?username=redisnotbluedev" alt="GitHub Stats" width="50%" align="left">
 Your text goes here. It will wrap around the image.
 
 I make games and do other stuff.
