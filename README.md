@@ -4,13 +4,11 @@
 
 i'm a fullstack developer who makes dumb stuff in my free time
 
-<div width="10px" align="left"></div>
+<br clear="all">
 
 - websites
 - discord bots
 - games
-
-<br clear="all">
 
 ### Currently Working On
 
