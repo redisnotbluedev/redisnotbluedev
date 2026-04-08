@@ -1,6 +1,8 @@
 <img src="https://ghstats.dev/api/card?username=redisnotbluedev" alt="GitHub Stats" width="50%" align="left">
 Your text goes here. It will wrap around the image.
 
+<br clear="all">
+
 I make games and do other stuff.
 
 ### Currently Working On
