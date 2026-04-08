@@ -1,8 +1,8 @@
 ## hi, i'm `redisnotblue`
 
 <p align="center">
-	<a href="https://github.com">
-		<img src="https://ghstats.dev" alt="GitHub Stats">
+	<a href="https://github.com/rowkav09/GitHub-profile-stats">
+		<img src="https://ghstats.dev/api/card?username=redisnotbluedev" alt="GitHub Stats">
 	</a>
 </p>
 
