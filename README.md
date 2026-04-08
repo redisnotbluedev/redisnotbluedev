@@ -4,11 +4,9 @@
 
 i'm a fullstack developer who makes dumb stuff in my free time
 
-<ul>
-	<li>   websites</li>
-	<li>   discord bots</li>
-	<li>   games</li>
-<ul>
+	- websites
+	- discord bots
+	- games
 
 <br clear="all">
 
