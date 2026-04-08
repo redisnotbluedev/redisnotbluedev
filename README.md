@@ -1,8 +1,10 @@
 ## hi, i'm `redisnotblue`
 
-<a align="center" href="https://github.com/rowkav09/GitHub-profile-stats">
-	<img src="https://ghstats.dev/api/card?username=redisnotbluedev" alt="GitHub Stats">
-</a>
+<p align="center">
+	<a href="https://github.com">
+		<img src="https://ghstats.dev" alt="GitHub Stats">
+	</a>
+</p>
 
 I make games and do other stuff.
 
