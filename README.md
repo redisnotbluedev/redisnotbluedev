@@ -16,7 +16,7 @@ websites • discord bots • games
 
 <a name="about"></a>
 <h2>
-  <img src="https://unpkg.com/lucide-static@1.7.0/icons/notebook-pen.svg" alt="Notebook icon">
+  <img src="notebook-pen.svg" alt="Notebook icon">
   about me
 </h2>
 
