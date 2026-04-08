@@ -36,5 +36,4 @@ lorem ipsum dolor sit amet
   contact
 </h2>
 
-lorem ipsum dolor sit amet
-discord is cool
+[discord](https://discord.com)
