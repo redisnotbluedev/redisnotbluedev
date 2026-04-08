@@ -6,10 +6,10 @@ i'm a fullstack developer who makes dumb stuff in my free time
 
 websites • discord bots • games
 
-||
-|-|
-|test 1|
-|test 2|
+[about](#about)
+[setup](#setup)
+[projects](#projects)
+[contact](#contact)
 
 <br clear="all">
 
