@@ -1,4 +1,6 @@
-## Hey, I'm `redisnotblue`
+## hi, i'm `redisnotblue`
+
+![GitHub Stats](https://ghstats.dev/api/card?username=redisnotbluedev)
 
 I make games and do other stuff.
 
