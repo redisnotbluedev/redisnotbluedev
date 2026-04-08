@@ -1,11 +1,6 @@
 ## hi, i'm `redisnotblue`
 
-<table>
- <tr>
-  <td>![GitHub Stats](https://ghstats.dev/api/card?username=redisnotbluedev)</td>
-  <td>test</td>
- </tr>
-</table>
+![GitHub Stats](https://ghstats.dev/api/card?username=redisnotbluedev)
 
 I make games and do other stuff.
 
