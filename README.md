@@ -21,3 +21,11 @@ websites • discord bots • games
 </h2>
 
 i use arch btw
+
+<a name="projects"></a>
+<h2>
+  <img src="code.svg" alt="Code icon">
+  projects
+</h2>
+
+lorem ipsum dolor sit amet
