@@ -2,7 +2,7 @@
 
 <img src="https://ghstats.dev/api/card?username=redisnotbluedev" alt="GitHub Stats" width="500px" align="left">
 
-I'm a fullstack developer
+i'm a fullstack developer who makes dumb stuff in my free time
 
 <br clear="all">
 
