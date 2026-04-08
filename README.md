@@ -1,5 +1,7 @@
 <img src="https://ghstats.dev/api/card?username=redisnotbluedev" alt="GitHub Stats" width="50%" align="left">
-Your text goes here. It will wrap around the image.
+## hey, i'm `redisnotblue`
+
+do headers even work
 
 <br clear="all">
 
