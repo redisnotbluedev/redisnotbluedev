@@ -5,6 +5,9 @@
 	</a>
 </div>
 
+<img src="https://ghstats.dev/api/card?username=redisnotbluedev" alt="Description" width="200" align="left" style="margin-right: 10px;">
+Your text goes here. It will wrap around the image.
+
 I make games and do other stuff.
 
 ### Currently Working On
