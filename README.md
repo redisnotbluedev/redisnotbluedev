@@ -3,6 +3,9 @@
 <img src="https://ghstats.dev/api/card?username=redisnotbluedev" alt="GitHub Stats" width="500px" align="left">
 
 i'm a fullstack developer who makes dumb stuff in my free time
+- web apps
+- discord bots
+- games
 
 <br clear="all">
 
