@@ -2,7 +2,7 @@
 
 <img src="https://ghstats.dev/api/card?username=redisnotbluedev" alt="GitHub Stats" width="50%" align="left">
 
-do headers even work
+I'm a fullstack developer
 
 <br clear="all">
 
