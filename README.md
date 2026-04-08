@@ -7,8 +7,11 @@ i'm a fullstack developer who makes dumb stuff in my free time
 websites • discord bots • games
 
 [about](#about)
+<br>
 [setup](#setup)
+<br>
 [projects](#projects)
+<br>
 [contact](#contact)
 
 <br clear="all">
