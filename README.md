@@ -1,6 +1,13 @@
 ## hi, i'm `redisnotblue`
 
-![GitHub Stats](https://ghstats.dev/api/card?username=redisnotbluedev)
+<div align="left">
+ ![GitHub Stats](https://ghstats.dev/api/card?username=redisnotbluedev)
+</div>
+<div align="right">
+ i do stuff
+</div>
+
+<br clear="both">
 
 I make games and do other stuff.
 
