@@ -24,6 +24,12 @@ websites • discord bots • games
   about me
 </h2>
 
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="ttps://streak-stats.demolab.com?user=redisnotbluedev&theme=dark&border_radius=8&short_numbers=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border=1E1E2E">
+	<source media="(prefers-color-scheme: light)" srcset="URL_TO_LIGHT_IMAGE">
+	<img alt="Description" src="URL_TO_FALLBACK_IMAGE">
+</picture>
+
 i use arch btw
 
 <a name="projects"></a>
