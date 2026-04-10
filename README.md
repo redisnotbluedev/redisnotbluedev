@@ -27,7 +27,7 @@ websites • discord bots • games
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=redisnotbluedev&theme=dark&border_radius=8&short_numbers=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border=1E1E2E">
 	<source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=redisnotbluedev&border_radius=8&short_numbers=true&background=FFFFFF&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border=1E1E2E">
-	<img alt="Description" src="URL_TO_FALLBACK_IMAGE">
+	<img alt="Description" src="https://streak-stats.demolab.com?user=redisnotbluedev&theme=dark&border_radius=8&short_numbers=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border=1E1E2E">
 </picture>
 
 i use arch btw
