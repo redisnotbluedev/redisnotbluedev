@@ -2,7 +2,7 @@
 
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=redisnotbluedev&border_radius=8&custom_title=My+GitHub+Stats&hide=stars%2Cprs%2Cstreak%2Cgrade%2Ccommits%2Crepos%2Cissues">
-	<source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/card?username=redisnotbluedev&border_radius=8&custom_title=My+GitHub+Stats&hide=stars%2Cprs%2Cstreak%2Cgrade%2Ccommits%2Crepos%2Cissues">
+	<source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/card?username=redisnotbluedev&border_radius=8&custom_title=My+GitHub+Stats&hide=stars%2Cprs%2Cstreak%2Cgrade%2Ccommits%2Crepos%2Cissues&theme=light">
 	<img alt="GitHub Stats Card" width="500px" align="left" src="https://ghstats.dev/api/card?username=redisnotbluedev&border_radius=8&custom_title=My+GitHub+Stats&hide=stars%2Cprs%2Cstreak%2Cgrade%2Ccommits%2Crepos%2Cissues">
 </picture>
 
