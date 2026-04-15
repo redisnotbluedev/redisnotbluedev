@@ -20,7 +20,6 @@ websites • discord bots • games
 
 <a name="about"></a>
 <h2>
-  <img src="notebook-pen.svg" alt="Notebook icon">
   about me
 </h2>
 
