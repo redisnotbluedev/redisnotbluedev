@@ -33,7 +33,6 @@ i use arch btw
 
 <a name="projects"></a>
 <h2>
-  <img src="code.svg" alt="Code icon">
   projects
 </h2>
 
