@@ -1,4 +1,4 @@
-## hey, i'm `redisnotblue`
+## hey! i'm `redisnotblue`.
 
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=redisnotbluedev&border_radius=8&custom_title=My+GitHub+Stats&hide=stars%2Cprs%2Cstreak%2Cgrade%2Ccommits%2Crepos%2Cissues">
